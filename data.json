@@ -1,0 +1,35 @@
+{
+    "myBudget":
+
+[
+    {
+
+        "title": "Travel",
+        "budget": 20
+    },
+    {
+        "title": "Gas",
+        "budget": 15
+    },
+    {
+        "title": "movie",
+        "budget": 15
+    },
+    {
+        "title": "Rent",
+        "budget": 325
+    },
+    {
+        "title": "Groceries",
+        "budget": 80
+    },
+    {
+        "title": "pet expense",
+        "budget": 20
+    },
+    {
+        "title": "Other",
+        "budget": 50
+    }
+]
+}
